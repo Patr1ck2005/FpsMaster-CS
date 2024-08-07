@@ -1,0 +1,31 @@
+# WINDOW_SIZE = (2048, 1536)
+# CENTER_POS = (1024, 768)
+# SHOT_SIZE = (320, 320)
+WINDOW_SIZE = (1440, 1080)
+CENTER_POS = (720, 540)
+SHOT_SIZE = (320, 320)
+left, top = (WINDOW_SIZE[0] - SHOT_SIZE[0]) // 2, (WINDOW_SIZE[1] - SHOT_SIZE[1]) // 2
+right, bottom = left + SHOT_SIZE[0], top + SHOT_SIZE[1]
+region = (left, top-30, right, bottom-30)
+monitor = {"top": top-30, "left": left, "width": SHOT_SIZE[0], "height": SHOT_SIZE[1]}
+
+manual_delay_tick = 10
+window_title = "Counter-Strike 2"
+# window_title = "VALORANT"
+weights_path = "cs2_s_fp16.engine"
+data_path = ""
+window_name = "visualise"
+# stride = 32
+device = 0
+iou_thres = 0.5
+classes = None
+agnostic_nms = True
+max_det = 10
+line_thickness = 2
+
+visualize = False
+hide_labels = False
+hide_conf = False
+img_view = False
+head_track = True
+body_track = False
