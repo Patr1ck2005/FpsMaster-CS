@@ -73,7 +73,7 @@ This project is licensed under the MIT License. For detailed information, please
 ## 联络方式 / Contact Information
 如有任何问题或需要技术支持，请通过以下方式联系我们：
 If you have any questions or need technical support, please contact us via:
-- 邮箱 / Email: [3531176373@qq.com]
+- 邮箱 / Email: [35********73@qq.com]
 
 感谢您对我们项目的兴趣！
 Thank you for your interest in our project!
