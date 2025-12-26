@@ -67,13 +67,12 @@ Please follow the steps below to install and run the AI auto-aim system:
 3. 运行系统：`python aim_assist.py`
 
 ## 许可证 / License
-本项目采用MIT许可证。详细内容请查看仓库中的LICENSE文件。
-This project is licensed under the MIT License. For detailed information, please see the LICENSE file in the repository.
+暂不提供
 
 ## 联络方式 / Contact Information
 如有任何问题或需要技术支持，请通过以下方式联系我们：
 If you have any questions or need technical support, please contact us via:
-- 邮箱 / Email: [3531176373@qq.com]
+- 邮箱 / Email: [35********73@qq.com]
 
 感谢您对我们项目的兴趣！
 Thank you for your interest in our project!
